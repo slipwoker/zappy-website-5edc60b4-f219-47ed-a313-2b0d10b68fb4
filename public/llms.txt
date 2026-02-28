@@ -1,0 +1,75 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+CartCraft powers your shopify ecommerce store with seamless platform solutions. Launch, manage, and scale your online business effortlessly. Start now.
+
+### About
+https://example.com/about
+Discover how CartCraft revolutionizes ecommerce fulfillment services with innovative technology and dedicated support. Learn our story and mission today.
+
+### Contact
+https://example.com/contact
+Ready to transform your shopify ecommerce website? Contact CartCraft&#39;s team for personalized solutions and expert guidance. Reach out today and grow faster.
+
+### Products
+https://example.com/products
+Our Products - CartCraft
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - CartCraft
+
+### Category
+https://example.com/category/:slug
+Products - CartCraft
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
